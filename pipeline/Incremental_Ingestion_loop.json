@@ -355,7 +355,7 @@
 					{
 						"schema": "dbo",
 						"table": "DimUser",
-						"cdc_col": "udated_at",
+						"cdc_col": "updated_at",
 						"from_date": ""
 					},
 					{
