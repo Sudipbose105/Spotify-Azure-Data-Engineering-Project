@@ -23,6 +23,24 @@ Here is the pipeline design as below:
 <img width="1902" height="723" alt="image" src="https://github.com/user-attachments/assets/181fa682-cda1-4641-ba05-23ff498246bc" />
 
 
+Used databricks autoloader to incrementally load and process the new files from bronze to silver layer.
+
+Created metadata driven notebook to generate SQL query dynamically based on user inputs. Used JINJA templating engine to achieve the same.
+
+Finally, created a DLT lakeflow pipeline to load the data from silver to gold layer. Implemented slowly changing dimension type 2 feature in the DLT pipeline using auto_cdc_flow.
+
+Here is the DLT pipeline design as below:
+
+<img width="1571" height="647" alt="image" src="https://github.com/user-attachments/assets/a6cd315c-10a9-4e6a-bdee-bac900f04020" />
+
+Used databricks assest bundles to deploy the code to different environments smoothly.
+
+
+
+
+
+
+
 
 
 
