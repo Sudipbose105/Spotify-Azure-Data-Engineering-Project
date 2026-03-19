@@ -14,3 +14,18 @@ Here is the pipeline design as below:
 
 <img width="1292" height="465" alt="image" src="https://github.com/user-attachments/assets/b871349e-8564-4046-ac8b-881b1b363122" />
 
+<img width="1293" height="558" alt="image" src="https://github.com/user-attachments/assets/31489560-1d90-4af5-ae9f-4fd10c807916" />
+
+<img width="1330" height="439" alt="image" src="https://github.com/user-attachments/assets/2d7b3f37-ae2d-4415-8e1a-6cad5f5d6574" />
+
+<img width="1334" height="491" alt="image" src="https://github.com/user-attachments/assets/7a275fee-18a5-4af0-91be-9a71f8c5e226" />
+
+<img width="1902" height="723" alt="image" src="https://github.com/user-attachments/assets/181fa682-cda1-4641-ba05-23ff498246bc" />
+
+
+
+
+
+
+
+
